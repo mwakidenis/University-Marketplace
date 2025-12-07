@@ -126,5 +126,6 @@ git commit -m "✨ Added your feature"
 📧 Email: mwakidenice@gmail.com
 ##
 **Made with ❤️ by Mwaki Denis**
-## ⭐ Show Some Love
+## ⭐ Show Some Love [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow)](https://wa.me/254798750585)
+
 ### If you like this project, give it a ⭐ on GitHub. Every star helps us grow! 💫
