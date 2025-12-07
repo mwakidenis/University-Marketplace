@@ -41,7 +41,7 @@ Follow these steps:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/kuza-market.git
+git clone https://github.com/mwakidenis/University-Marketplace.git
 
 # Step 2: Navigate into the project folder
 cd kuza-market
