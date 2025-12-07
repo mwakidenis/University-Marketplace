@@ -123,7 +123,7 @@ git commit -m "✨ Added your feature"
 
 📞 WhatsApp: +254 798 750 585
 
-📧 Email: support@kuzamarket.com
+📧 Email: mwakidenice@gmail.com
 **Made with ❤️ by Mwaki Denis**
 ## ⭐ Show Some Love
 ### If you like this project, give it a ⭐ on GitHub. Every star helps us grow! 💫
