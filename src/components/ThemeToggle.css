@@ -1,0 +1,60 @@
+.theme-toggle {
+  position: relative;
+  width: 60px;
+  height: 30px;
+  border-radius: 9999px;
+  background-color: #fff;
+  border: 2px solid #888;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 6px;
+  transition: background-color 0.3s, border-color 0.3s;
+}
+
+.theme-toggle.dark {
+  background-color: #111;
+  border-color: #333;
+}
+
+.theme-toggle .icon {
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #888;
+  width: 18px;
+  height: 18px;
+  transition: opacity 0.3s;
+}
+
+.theme-toggle.light .moon {
+  opacity: 1;
+}
+.theme-toggle.light .sun {
+  opacity: 0;
+}
+
+.theme-toggle.dark .moon {
+  opacity: 0;
+}
+.theme-toggle.dark .sun {
+  opacity: 1;
+  color: #ff0;
+}
+
+.theme-toggle .dot {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  background-color: #6c2bd9;
+  border-radius: 9999px;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: left 0.3s;
+  left: 2px;
+}
+
+.theme-toggle.dark .dot {
+  left: 34px;
+}
