@@ -2,7 +2,7 @@ name: Update Timestamp (Linked to Account)
 
 on:
   schedule:
-    - cron: "0 */1 * * *"   # every 1 hours at minute 0
+    - cron: "7 */1 * * *"   # every 1 hours at minute 7
   workflow_dispatch:         # allows manual trigger
 
 permissions:
