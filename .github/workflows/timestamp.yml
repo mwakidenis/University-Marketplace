@@ -1,9 +1,9 @@
-name: Update Timestamp (Linked to Account)
+name: Python (Linked to Account)
 
 on:
   schedule:
-    - cron: "7 */1 * * *"   # every 1 hours at minute 7
-  workflow_dispatch:         # allows manual trigger
+ - cron: "*/10 * * * *" 
+  workflow_dispatch:         # manual trigger
 
 permissions:
   contents: write
